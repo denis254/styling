@@ -5,17 +5,10 @@ body{
   margin-right: 20px;
   color: #006ba6;
   text-align: left;
-  background: #006194;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
 }
-body {
-    color: #006ba6;
-    text-align: left;
-    background: #006194;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-}
+
 
 table {
 
